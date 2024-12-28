@@ -13,6 +13,8 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
 *   **Autenticación:**
     *   Inicia sesión de forma segura con tu cuenta de Google.
     *   Gestiona tu perfil y mantén tu progreso sincronizado.
+          **Pantalla de Inicio de Sesión:**
+    ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF.png)
 *   **Pokédex:**
     *   Explora una extensa lista de Pokémon, obtenida directamente de la PokeAPI.
     *   Visualiza la imagen, el nombre y el número de cada Pokémon.
