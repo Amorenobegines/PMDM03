@@ -1,6 +1,6 @@
 # PokéApp: Tu Pokédex Personal
 
-![Portada de la aplicación](https://imgur.com/z8uCwX6)
+![Portada de la aplicación](https://imgur.com/z8uCwX6.png)
 
 ## Introducción
 
