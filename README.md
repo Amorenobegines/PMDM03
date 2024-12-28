@@ -17,12 +17,13 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *  **Pantalla de Inicio de Sesión:**
     ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF.png)
     *
-         *   **Pantalla de Login:**
+        **Pantalla de Login:**
+    *Loguearte con el usuario 
     ![Pantalla de Login](https://imgur.com/5qnGO14.png)
    *
-      *   **Pantalla de Registarse:**
-     *   
-    ![Pantalla deRegistarse](https://imgur.com/0vteXoD.png)
+     *   **Pantalla de Registarse:**
+ *   Donde podrás registarte para iniciar sesión por primera vez.
+    ![Pantalla de Registarse](https://imgur.com/0vteXoD.png)
     *
     *   **Pokédex:**
     *   Explora una extensa lista de Pokémon, obtenida directamente de la PokeAPI.
@@ -36,7 +37,7 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *   Accede a una lista personalizada de los Pokémon que has capturado.
     *   Visualiza la imagen, el nombre y el número de cada Pokémon capturado.
     *   Consulta información detallada de cada Pokémon capturado.
-    *   
+       
     ![Mis Pokémon](https://imgur.com/OqB3MoK.png)
    *
 *   **Ajustes:**
