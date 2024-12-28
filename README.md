@@ -15,16 +15,17 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *   Gestiona tu perfil y mantén tu progreso sincronizado.
     *   
     *  **Pantalla de Inicio de Sesión:**
-    ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF.png)
+   (https://imgur.com/JRLO9EF.png)
    *   **Pantalla de Login:**
-    ![Pantalla de Login](https://imgur.com/5qnGO14.png)
+    (https://imgur.com/5qnGO14.png)
    *   **Pantalla de Registarse:**
-    ![Pantalla de Registarse](https://imgur.com/0vteXoD.png)
+    (https://imgur.com/0vteXoD.png)
    *   **Pokédex:**
     *   Explora una extensa lista de Pokémon, obtenida directamente de la PokeAPI.
     *   Visualiza la imagen, el nombre y el número de cada Pokémon.
     *   Consulta información detallada de cada Pokémon, como sus tipos, peso y altura.
     *   Marca los Pokémon que has capturado para llevar un registro de tu colección.
+    *
     ![Pokédex](https://imgur.com/z8uCwX6.png)
     *
     *   **Mis Pokémon:**
@@ -33,6 +34,7 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *   Consulta información detallada de cada Pokémon capturado.
     *   
     ![Mis Pokémon](https://imgur.com/OqB3MoK.png)
+   *
 *   **Ajustes:**
     *   Ve el usuario logueado  
     *   Cambia el idioma de la aplicación para una experiencia personalizada.
@@ -40,12 +42,12 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *   Consulta información sobre la aplicación en la sección "Acerca de".
     *   Accede a una sección de "Ayuda" con preguntas frecuentes.
     *   Cierra sesión de forma segura.
-    *    ![Ajustes](https://imgur.com/a/YDoDuJU.png)
+    *    (https://imgur.com/a/YDoDuJU.png)
     *    
 *   **Detalles del personaje:**
     *   Accede a una pantalla con información detallada del pokemon.
     *   Visualiza el nombre, numero, peso, altura y tipos del pokemon.
-    *    ![Detalle Pokemon](https://imgur.com/L4OLOkl.png)
+    *   (https://imgur.com/L4OLOkl.png)
     *    
 ## Tecnologías Utilizadas
 
