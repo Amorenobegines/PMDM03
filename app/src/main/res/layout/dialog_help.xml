@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/colorAcento">
+
+    <LinearLayout
+        style="@style/lineaLayaout">
+
+        <TextView
+            style="@style/textTitulo"
+            android:text="@string/ayuda" />
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/mensaje_ayuda" />
+
+        <TextView
+            style="@style/textPregunta"
+            android:text="@string/pregunta1"/>
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/respuesta1" />
+
+        <TextView
+            style="@style/textPregunta"
+            android:text="@string/pregunta2"/>
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/respuesta2" />
+
+        <TextView
+            style="@style/textPregunta"
+            android:text="@string/pregunta3" />
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/respuesta3" />
+
+        <TextView
+            style="@style/textTitulo"
+            android:text="@string/soporte"/>
+
+        <TextView
+            style="@style/textPregunta"
+            android:text="@string/pregunta4" />
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/respuesta4" />
+
+        <TextView
+            style="@style/textPregunta"
+            android:text="@string/pregunta5"/>
+
+        <TextView
+            style="@style/textRespuesta"
+            android:text="@string/respuesta5"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Usuario -->
+    <Preference
+        android:icon="@drawable/user"
+        android:key="user"
+        android:summary=" "
+        android:enabled="false"
+        android:title="@string/user"/>
+
+    <!-- Cambiar idioma -->
+    <ListPreference
+        android:defaultValue="es"
+        android:entries="@array/languages"
+        android:entryValues="@array/language_values"
+        android:icon="@drawable/idioma"
+        android:key="idioma"
+        android:summary="@string/selecciona_idioma"
+        android:title="@string/language" />
+
+    <!-- Eliminar pokemon -->
+    <SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:icon="@drawable/delete"
+        android:key="eliminar_todos_pokemon"
+        android:summary="@string/borrar_pokemon"
+        android:title="@string/eliminarPokemon" />
+
+    <!-- Acerca de -->
+    <Preference
+        android:icon="@drawable/acerca_de"
+        android:key="about"
+        android:summary="@string/inf_app"
+        android:title="@string/menu_acerca_de" />
+
+    <!-- Ayuda -->
+    <Preference
+        android:key="help"
+        android:summary="@string/info_ayuda"
+        android:title="@string/menu_ayuda"
+        android:icon="@drawable/help" />
+
+    <!-- Cerrar sesión -->
+    <Preference
+        android:icon="@drawable/cerrar_sesion"
+        android:key="logout"
+        android:summary="@string/cerrar_sesion_actual"
+        android:title="@string/CerrarSesion" />
+</PreferenceScreen>

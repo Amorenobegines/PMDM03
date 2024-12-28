@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="logoSplash">Splash</style>
+
+    <style name="image" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">400dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <!-- Definir el estilo para el button activity_login-->
+    <style name="styleinput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:drawablePadding">15dp</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- Text usuarioNuevo-->
+    <style name="UsuarioNuevo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Button_login -->
+    <style name="button_login">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="fontFamily">@font/worksans</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- lineaLayaout -->
+    <style name="lineaLayaout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <!-- text registro -->
+    <style name="text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_gravity">end</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Button_main -->
+    <style name="button_main">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="fontFamily">@font/mulish</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Definir el estilo para el texto activity_switch-->
+    <style name="idiomaStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+
+    <!-- Definir el estilo para el text detail_pokemon-->
+    <style name="styletext">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+    <!-- Definir el estilo para el text título-->
+    <!-- Text titulo-->
+    <style name="textTitulo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingBottom">16dp</item>
+    </style>
+
+    <!-- text pregunta -->
+    <style name="textPregunta">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- text respuesta -->
+    <style name="textRespuesta">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Text Pokedex -->
+    <style name="stylePokedex">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

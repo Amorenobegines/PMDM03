@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.Login">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        style="@style/lineaLayaout">
+
+        <TextView
+            android:id="@+id/IniciarSesionTxt"
+            style="@style/UsuarioNuevo"
+            android:text="@string/IniciarSesion"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="user.json"
+            app:lottie_imageAssetsFolder="assets"
+            app:lottie_loop="true" />
+
+        <EditText
+            android:id="@+id/CorreoLogin"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_correo"
+            android:hint="@string/CorreoEt"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:id="@+id/PassLogin"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_password"
+            android:hint="@string/PassLogin"
+            android:inputType="textPassword"
+            app:passwordToggleEnabled="true" />
+
+        <Button
+            android:id="@+id/Btn_Login"
+            style="@style/button_login"
+            android:text="@string/Btn_Login"/>
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/signInButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/usuarioNuevoTxt"
+            style="@style/UsuarioNuevo"
+            android:text="@string/usuarioNuevoTxt"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+</RelativeLayout>

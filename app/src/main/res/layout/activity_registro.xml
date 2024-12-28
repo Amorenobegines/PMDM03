@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.Registro">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        style="@style/lineaLayaout">
+
+        <TextView
+            android:id="@+id/CrearCuantaTxt"
+            style="@style/UsuarioNuevo"
+            android:text="@string/CrearCuantaTxt"
+            android:textSize="20sp" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="regist.json"
+            app:lottie_imageAssetsFolder="assets"
+            app:lottie_loop="true"/>
+
+        <EditText
+            android:id="@+id/NombreEt"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_nombres"
+            android:hint="@string/NombreEt"
+            android:inputType="textPersonName|textCapWords" />
+
+        <EditText
+            android:id="@+id/CorreoEt"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_correo"
+            android:hint="@string/CorreoEt"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/ContraseñaEt"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_password"
+            android:hint="@string/ContraseñaEt"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/ConfirmarContraseñaEt"
+            style="@style/styleinput"
+            android:drawableStart="@drawable/icono_password"
+            android:hint="@string/ConfirmarContraseñaEt"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/RegistrarUsuario"
+            style="@style/button_login"
+            android:text="@string/RegistrarUsuario" />
+
+        <TextView
+            style="@style/text"
+            android:id="@+id/TengoCuentaTXT"
+            android:text="@string/TengoUnaCuentaTXT" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</ScrollView>

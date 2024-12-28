@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pokemon_detail"
+    android:orientation="vertical"
+    tools:context=".DetailPokemon">
+
+
+    <FrameLayout
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp">
+
+        <ImageView
+            android:id="@+id/detalle_imageview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleX="1"
+            android:scaleY="1" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/detalle_name"
+        style="@style/styletext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/detalle_id"
+        style="@style/styletext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="id" />
+
+    <TextView
+        android:id="@+id/detalle_type"
+        style="@style/styletext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="type" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/detalle_peso"
+            style="@style/styletext"
+            android:layout_marginStart="80dp"
+            android:text="peso" />
+
+        <TextView
+            android:id="@+id/detalle_altura"
+            style="@style/styletext"
+            android:layout_marginStart="40dp"
+            android:text="altura"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_eliminar_pokemon"
+        style="@style/styletext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/delete" />
+</LinearLayout>

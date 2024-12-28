@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/itemListFragment">
+
+     <fragment
+         android:id="@+id/itemListFragment"
+         android:name="com.example.PMDM03_Alicia.MenuPrincipal"
+         android:label="item_list_fragment"
+         tools:layout="@layout/activity_menu_principal" />
+     <fragment
+         android:id="@+id/itemDetailFragment"
+         android:name="com.example.PMDM03_Alicia.MenuPrincipal"
+         android:label="item_detail_fragment"
+         tools:layout="@layout/activity_menu_principal" />
+
+</navigation>

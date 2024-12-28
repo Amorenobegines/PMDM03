@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#08DB51</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAcento"> #FFCC00</color>
+    <color name="colorAzul">#3B4CCA</color>
+    <color name="color_capturado">#FF0000</color>
+
+    <color name="preference_title_color">#FF0000</color> <!-- Rojo -->
+    <color name="preference_summary_color">#0000FF</color> <!-- Azul -->
+    <color name="preference_background_color">#FFEB3B</color> <!-- Gris Claro -->
+</resources>

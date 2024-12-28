@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">PMDM03_Alicia</string>
+
+    <!-- Main Activity -->
+    <string name="Btn_Login">INICIAR SESIÓN</string>
+    <string name="Btn_Registro">REGISTRARSE</string>
+
+
+    <string name="Pokemon">Pokemon</string>
+
+    <!-- Activity Registro -->
+    <string name="CrearCuantaTxt">Crear una cuenta</string>
+    <string name="NombreEt">Nombres</string>
+    <string name="CorreoEt">Correo Electrónico</string>
+    <string name="ContraseñaEt">Contraseña</string>
+    <string name="ConfirmarContraseñaEt">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registar</string>
+    <string name="TengoUnaCuentaTXT">Tengo una cuenta</string>
+    <string name="default_web_client_id">Error al iniciar sesión con Google</string>
+
+    <!-- Menú principal -->
+
+    <string name="pokedex">Pokedex</string>
+    <string name="MisPokemon">Mis Pokemon</string>
+    <string name="ajuste">Ajuste</string>
+
+
+    <!-- Activity Login -->
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_logeo">Ingresar</string>
+    <string name="usuarioNuevoTxt">¿No tienes una cuenta? Registrate</string>
+    <string name="BienvenidoTxt">Bienvenido</string>
+    <string name="ErrorLogin">Verifique si sus datos son correctos</string>
+    <string name="CorreoInvalido">Correo inválido</string>
+    <string name="ingreseContraseña">Ingrese su contraseña</string>
+    <string name="EsperePorFavorTxt">Espere por favor</string>
+
+
+    <!-- menu -->
+    <string name="mensaje_acerca">Aplicación desarrollada por Alicia Moreno Begines. Versión 1.0.0</string>
+    <string name="settings">Ajustes</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="CerrarSesion">Cerrar sesión</string>
+    <string name="men_cerrar_sesion">La sesión se cerro correctamente</string>
+
+
+    <!-- Pokedex -->
+    <string name="eliminarPokemon">Eliminar mis Pokemon</string>
+    <string name="has_elegido">Has elegido a:</string>
+    <string name="capturado">Capturaste a:</string>
+    <string name="error_pokemon">Error al obtener datos del Pokémon</string>
+
+
+    <!-- Ajuste -->
+    <string name="idioma">Idioma</string>
+    <string name="language">Idioma</string>
+    <string name="change_languge">Español/Inglés</string>
+    <string name="message">Pulse para cambiar el idioma</string>
+    <string name="change_language">Cambiar el idioma</string>
+    <string name="cancel">Cancelar</string>
+    <string name="men_cambio_idioma">Cambio idioma a Español</string>
+    <string name="error_cerrar_sesion">Error al cerrar sesión</string>
+    <string name="selecciona_idioma">Selecciona el idioma de la aplicación</string>
+    <string name="borrar_pokemon">Permitir la eliminación de Pokémon capturados</string>
+    <string name="inf_app">Información de la app</string>
+    <string name="cerrar_sesion_actual">Cerrar la sesión actual</string>
+    <string name="pregunta_idioma">¿Estás seguro de que deseas cambiar el idioma?</string>
+    <string name="cambio_idioma">Cambiar idioma</string>
+    <string name="pregunta_cerrar_sesion">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="mensaje_eliminados">Todos los Pokémon han sido eliminados</string>
+    <string name="error_eliminar_pokemon">Error al eliminar Pokémon</string>
+    <string name="user">Usuario</string>
+
+    <!-- Ayuda y soporte -->
+    <string name="menu_ayuda">Ayuda y soporte</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="soporte">Soporte</string>
+    <string name="mensaje_ayuda">La aplicación contará con tres pestañas principales: Pokémon Capturados, Pokédex y Ajustes. En la pestaña Pokédex, los usuarios podrán ver la lista completa de Pokémon, y con un solo toque, podrán agregar aquellos que capturen a su lista personal. Desde ahí podrán ver los detalles de cada pokemon y eliminarlos.</string>
+    <string name="info_ayuda">Encuentra respuestas a tus preguntas</string>
+    <string name="pregunta1">¿Qué es esta aplicación?</string>
+    <string name="respuesta1">Esta aplicación es una Pokédex digital donde puedes ver información detallada sobre todos los Pokémon y gestionar tus Pokémon capturados.</string>
+    <string name="pregunta2">¿Cómo puedo capturar un Pokémon?</string>
+    <string name="respuesta2">Para capturar un Pokémon, navega a la Pokédex, selecciona el Pokémon que deseas capturar y presiona el botón de captura.</string>
+    <string name="pregunta3">¿Cómo elimino un Pokémon capturado?</string>
+    <string name="respuesta3">Para eliminar un Pokémon capturado, ve a la sección de Pokémon capturados, selecciona el Pokémon que deseas eliminar y presiona el botón de eliminación.</string>
+    <string name="pregunta4">¿Dónde puedo encontrar más información sobre la aplicación?</string>
+    <string name="respuesta4">Puedes encontrar más información sobre la aplicación en la sección Acerca de en Ajustes.</string>
+    <string name="pregunta5">¿Cómo puedo contactar con el soporte técnico?</string>
+    <string name="respuesta5">Puedes contactar con el soporte técnico enviando un correo electrónico a soporte@pokemon.com</string>
+
+    <!-- Mis Pokemon -->
+    <string name="snackbar_men">Bienvenidos al mundo Pokemon.</string>
+
+    <!-- Detail Pokemon -->
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="details">Detalles del Pokemon</string>
+    <string name="mensaje_usu">Se ha seleccionado el pokemon: </string>
+    <string name="tipo">Tipo:</string>
+    <string name="weight">Peso:</string>
+    <string name="height">Altura:</string>
+    <string name="number">Número:</string>
+    <string name="delete">Eliminar</string>
+    <string name="mens_toast_eliminar">¿Estás seguro de que deseas eliminar este Pokémon?</string>
+
+
+
+
+</resources>
