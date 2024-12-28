@@ -89,17 +89,17 @@ En general, estoy muy satisfecha con el resultado final de PokéApp y creo que e
 
 Aquí puedes ver algunas capturas de pantalla de la aplicación:
 *   **Pantalla de Inicio de Sesión:**
-    ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF)
+    ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF.png)
 *   **Pantalla de Login:**
-    ![Pantalla de Login](https://imgur.com/5qnGO14)
+    ![Pantalla de Login](https://imgur.com/5qnGO14.png)
 *   **Pantalla de Registarse:**
-    ![Pantalla de Registarse](https://imgur.com/0vteXoD)
+    ![Pantalla de Registarse](https://imgur.com/0vteXoD.png)
 *   **Pokédex:**
-    ![Pokédex](https://imgur.com/z8uCwX6)
+    ![Pokédex](https://imgur.com/z8uCwX6.png)
 *   **Mis Pokémon:**
-    ![Mis Pokémon](https://imgur.com/OqB3MoK)
+    ![Mis Pokémon](https://imgur.com/OqB3MoK.png)
 *   **Ajustes:**
-    ![Ajustes](https://imgur.com/a/YDoDuJU)
+    ![Ajustes](https://imgur.com/a/YDoDuJU.png)
 * **Detalle Pokemon:**
-    ![Detalle Pokemon](https://imgur.com/L4OLOkl)
+    ![Detalle Pokemon](https://imgur.com/L4OLOkl.png)
 
