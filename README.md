@@ -52,7 +52,7 @@ PokéApp ofrece una variedad de funcionalidades para mejorar tu experiencia como
     *   Accede a una sección de "Ayuda" con preguntas frecuentes.
     *   Cierra sesión de forma segura.
       
-    ![Ajustes](https://imgur.com/tNDTPz1.png).
+    ![Ajustes](https://imgur.com/tNDTPz1.png)
         
 *   **Detalles del personaje:**
     *   Accede a una pantalla con información detallada del pokemon.
@@ -112,21 +112,4 @@ A lo largo del proyecto, he aprendido la importancia de una buena planificación
 
 En general, estoy muy satisfecha con el resultado final de PokéApp y creo que es una aplicación útil y entretenida para cualquier fan de Pokémon.
 
-## Capturas de Pantalla
-
-Aquí puedes ver algunas capturas de pantalla de la aplicación:
-*   **Pantalla de Inicio de Sesión:**
-    ![Pantalla de Inicio de Sesión](https://imgur.com/JRLO9EF.png)
-*   **Pantalla de Login:**
-    ![Pantalla de Login](https://imgur.com/5qnGO14.png)
-*   **Pantalla de Registarse:**
-    ![Pantalla de Registarse](https://imgur.com/0vteXoD.png)
-*   **Pokédex:**
-    ![Pokédex](https://imgur.com/z8uCwX6.png)
-*   **Mis Pokémon:**
-    ![Mis Pokémon](https://imgur.com/OqB3MoK.png)
-*   **Ajustes:**
-    ![Ajustes](https://imgur.com/a/YDoDuJU.png)
-* **Detalle Pokemon:**
-    ![Detalle Pokemon](https://imgur.com/L4OLOkl.png)
 
